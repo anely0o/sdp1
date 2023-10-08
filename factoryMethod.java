@@ -35,8 +35,5 @@ public class factoryMethod {
         }
     }
 
-    public void main(String[] args) {
-        AnimalFactory animalFactory = new RandomAnimalFactory();
-        animalFactory.operation();
-    }
+
 }
